@@ -1,0 +1,5 @@
+@HOST = http://localhost
+@PORT = 3000
+@URL = {{HOST}}:{{PORT}}
+
+POST {{URL}}/url_telegram
